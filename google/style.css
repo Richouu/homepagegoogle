@@ -1,0 +1,73 @@
+#barre
+{   
+    display: block;
+    min-width: 500px;
+    padding-top: 25px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: rgb(223 225 229);
+   }
+.centre{
+    margin: 0 auto;
+}
+#logo{
+    display: block;
+    padding-top: 108px;
+    margin: 0 auto;
+ }
+ .carbone{
+ 	position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 800px;
+  }
+ .rechercher{
+ 	position: fixed;
+ 	left: 725px;
+ 	top: 400px;
+ }
+ .chance{
+ 	position: fixed;
+ 	left: 1000px;
+ 	top: 416px;	
+ }
+ .bas{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0px;
+  }
+.basdroite{
+	position: fixed;
+	bottom: 0;
+	right: 55px;
+}  
+.pays{
+    border: 10px;
+    position: fixed;
+    margin-top: 1%;
+    bottom: 60px;
+    left: 50px;
+    width: 100%;
+    color: rgb(112 117 122);
+}
+
+
+
+ul{ 
+    list-style-type: none;
+    
+  }
+
+li{
+    display: inline-block;
+    
+  }
+
+a{
+    display: block;
+    font-family: arial;
+    font-size: 13px;
+    padding: 10px;
+    color: rgb(112 117 122);
+}
